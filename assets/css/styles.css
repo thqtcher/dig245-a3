@@ -1,2 +1,95 @@
 
 /* css */
+body{
+  background-color: rgba(169, 169, 169, 1);
+}
+a{
+  padding-left: 145px;
+}
+.background{
+  width:535px;
+  height:750px;
+  background-color:rgb(220,224,210);
+}
+h2{
+  font-size: 140px;
+  color:rgb(200, 0, 115,1);
+  position: absolute;
+  left:-10px;
+  z-index: 50;
+  mix-blend-mode:darken;
+}
+h3{
+  font-size: 140px;
+  color:rgb(0, 160, 200,1);
+  position: absolute;
+  left:-10px;
+  z-index: 100;
+  mix-blend-mode:darken;
+}
+h4{
+  font-size: 12px;
+  color:rgb(36, 33, 118,1);
+  position: absolute;
+  z-index: 100;
+}
+.ramones6p{
+  top: 450px;
+}
+.ramones6c{
+  top: 450px;
+}
+.ramones5p{
+  top: 360px;
+}
+.ramones5c{
+  top: 358px;
+}
+.ramones4p{
+  top: 270px;
+}
+.ramones4c{
+  top: 266px;
+}
+.ramones3p{
+  top: 180px;
+}
+.ramones3c{
+  top: 174px;
+}
+.ramones2p{
+  top: 90px;
+}
+.ramones2c{
+  top: 82px;
+}
+.ramones1p{
+  top: 0px;
+}
+.ramones1c{
+  top: -10px;
+}
+.smalltxt1{
+  top:762px;
+  left:10px;
+}
+.smalltxt2{
+  top:778px;
+  left:10px;
+}
+.smalltxt3{
+  top:762px;
+  left:150px;
+}
+.smalltxt4{
+  top:778px;
+  left:150px;
+}
+.smalltxt5{
+  top:762px;
+  left:350px;
+}
+.smalltxt6{
+  top:778px;
+  left:350px;
+}
